@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋, I'm Fady Monier Fouad<br><br>Flutter Developer</h1>
+<h1 align="center">Hi 👋, I'm Fady Monier Fouad<br><br>Software Engineer | Mobile Application Developer | Flutter Developerr</h1>
 
 ###
 
