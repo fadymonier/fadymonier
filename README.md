@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fady Monier Fouad</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B68EE&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Fady+Monier+Fouad;Flutter+Developer;Mobile+App+Engineer;Software+Engineer" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">Software Engineer</h3>  
 <h3 align="center">Mobile Application Developer | Flutter Developer</h3>  
@@ -17,7 +19,14 @@
 
 ###
 
-<h4 align="center">I'm from Zagazig, Ash Sharqiyah, Egypt <br><br>- 🔭 I’m working as Mobile Application developer - Flutter</h4>
+<h4 align="center">
+I'm from Zagazig, Ash Sharqiyah, Egypt 
+<br><br>
+- 🔭 I’m working as Mobile Application Developer - Flutter
+<br><br>
+🌐 Check out my portfolio: 
+<a href="https://fadymonierfouad-portfolio.web.app/" target="_blank">fadymonierfouad-portfolio.web.app</a>
+</h4>
 
 ###
 
@@ -66,3 +75,27 @@
 </div>
 
 ###
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fadymonier&show_icons=true&theme=tokyonight" height="180" alt="stats graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadymonier&theme=tokyo-night" height="250" alt="activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadymonier&layout=compact&theme=tokyonight" height="180" alt="top languages graph"  />
+</div>
+
+###
+
+<h3 align="center">👀 Visitors Count</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fadymonier&style=for-the-badge&color=blueviolet" alt="visitor badge"/>
+</div>
