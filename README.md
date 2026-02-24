@@ -80,19 +80,6 @@ I'm from Zagazig, Ash Sharqiyah, Egypt
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fadymonier&show_icons=true&theme=tokyonight" height="180" alt="stats graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadymonier&theme=tokyo-night" height="250" alt="activity graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadymonier&layout=compact&theme=tokyonight" height="180" alt="top languages graph"  />
-</div>
-
-###
 
 <h3 align="center">👀 Visitors Count</h3>
 
