@@ -76,10 +76,6 @@ I'm from Zagazig, Ash Sharqiyah, Egypt
 
 ###
 
-<h3 align="center">📊 GitHub Analytics</h3>
-
-###
-
 
 <h3 align="center">👀 Visitors Count</h3>
 
